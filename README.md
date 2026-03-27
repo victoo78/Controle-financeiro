@@ -90,6 +90,3 @@ Controle-financeiro/
 
 
 
-## Autor
-
-Desenvolvido por [victoo78](https://github.com/victoo78).
